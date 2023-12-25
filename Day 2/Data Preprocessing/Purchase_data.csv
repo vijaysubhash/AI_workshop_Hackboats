@@ -1,0 +1,18 @@
+Country,Age,Salary,Purchased,Category
+India,34,92000,Yes,Laptop
+Sri lanka,22,25000,Yes,Smart Watch
+China,31,74000,Yes,Laptop
+Sri lanka,29,,No,Mobile
+China,55,98000,Yes,Mobile
+India,,30000,No,Mobile
+Sri lanka,28,40000,No,Laptop
+India,,60000,No,Mobile
+China,51,89000,Yes,Laptop
+India,44,78000,Yes,Laptop
+Sri lanka,21,20000,No,Mobile
+China,25,30000,Yes,Smart Watch
+India,33,45000,Yes,Mobile
+India,42,65000,Yes,Mobile
+Sri lanka,33,22000,No,Smart Watch
+India,34,92000,Yes,Laptop
+China,31,74000,Yes,Laptop

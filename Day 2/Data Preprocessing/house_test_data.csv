@@ -1,0 +1,100 @@
+price,bedrooms,bathrooms,sqft_lot,floors,sqft_lot15,condition,Location
+221900,3,1,5650,1,5650,good,Chicago
+538000,3,2,7242,2,7639,bad,Chicago
+180000,2,1,10000,1,8062,average,Chicago
+604000,4,3,5000,1,5000,bad,Chicago
+510000,3,2,8080,1,7503,average,Chicago
+257500,3,2,6819,2,6819,good,New Jersey
+291850,3,1,9711,1,9711,good,New Jersey
+229500,3,1,7470,1,8113,good,New Jersey
+323000,3,2,6560,2,7570,average,New Jersey
+662500,3,2.25,9796,1,8925,average,New Jersey
+468000,2,1,6000,1,6000,average,Chicago
+310000,3,1,19901,1.5,12697,bad,Chicago
+400000,3,1.75,9680,1,10208,average,Chicago
+530000,5,2,4850,1.5,4850,average,Chicago
+650000,4,3,5000,2,4000,average,Chicago
+395000,3,2,14040,2,14018,average,Chicago
+485000,4,1,4300,1.5,,average,Chicago
+189000,2,1,9850,1,5095,average,Chicago
+230000,3,1,9774,1,8850,bad,Chicago
+385000,4,1.75,4980,1,4980,average,Chicago
+285000,5,2.5,6300,2,7005,average,Chicago
+252700,2,1.5,9643,1,8386,average,Chicago
+329000,3,2.25,6500,,6865,average,Chicago
+233000,3,2,4697,1.5,4705,average,California
+937000,,1.75,2691,2,3573,good,California
+667000,,1,1581,1.5,,average,California
+438000,3,1.75,6380,1,6235,average,California
+719000,4,2.5,7173,2,6026,good,Chicago
+580500,3,2.5,3980,2,3980,average,California
+280000,2,1.5,,3,1756,bad,New Jersey
+687500,4,1.75,5000,1.5,5000,average,New Jersey
+535000,3,1,3000,1.5,5080,average,New Jersey
+322500,4,2.75,6659,,8720,average,Chicago
+696000,3,2.5,3060,1.5,3264,,Chicago
+550000,4,1,34848,1,11467,average,Chicago
+640000,4,2,6000,2,4700,good,Chicago
+240000,4,1,8075,1,7800,average,Chicago
+605000,4,2.5,7553,2,,average,Chicago
+625000,4,2.5,5520,2,5669,good,New Jersey
+775000,4,2.25,24186,1,30617,average,New Jersey
+861990,5,2.75,5639,2,5639,bad,New Jersey
+685000,3,1,2280,2,2640,average,New Jersey
+309000,3,1,9656,1,8808,average,New Jersey
+488000,,2.5,13603,2,9232,average,Chicago
+210490,3,1,8528,1,8840,average,Chicago
+785000,4,2.5,,2,,good,Chicago
+450000,3,1.75,5963,1,5100,average,Chicago
+228000,3,1,9199,1,9364,average,Chicago
+345000,5,2.5,9134,1,9133,average,New Jersey
+600000,3,1.75,4080,1,4080,good,New Jersey
+585000,2,1.75,8550,1,6738,average,New Jersey
+920000,5,2.25,,,6000,average,New Jersey
+885000,4,2.5,5000,2,5000,average,Chicago
+292500,4,2.5,4495,2,4500,average,Chicago
+301000,3,2.5,4750,2,4750,average,Chicago
+951000,5,3.25,14342,2,11044,average,Chicago
+430000,4,3,9976,2,8542,average,Chicago
+650000,3,2.25,21235,1,18900,,Chicago
+289000,3,1.75,8400,1,8750,good,Chicago
+505000,3,1.75,8690,2,9500,good,Chicago
+549000,3,1.75,1044,3,3090,bad,Chicago
+425000,3,2.25,6000,1,4080,good,Chicago
+317625,3,2.75,3809,1.5,4000,average,Chicago
+975000,4,2.5,11049,2,11049,average,Chicago
+287000,4,2.5,4648,2,4557,average,Chicago
+204000,3,1,12070,1,12635,good,Chicago
+325000,3,2,5612,1,4745,good,Chicago
+571000,4,2,7807,1.5,7807,bad,Chicago
+360000,4,2.5,5000,2,5000,average,Chicago
+349000,3,1.75,50529,1,50529,good,Chicago
+832500,4,4,35102,2,35020,average,Chicago
+380000,4,1.75,7300,1,7500,average,Chicago
+480000,3,1,5060,1,5060,good,New Jersey
+410000,3,1,5060,1,5693,average,California
+720000,4,2.5,39683,2,39750,,California
+390000,3,2.5,5100,2,5363,average,California
+360000,4,2.5,,2,6405,average,California
+355000,2,1,6720,1,6720,good,California
+356000,3,1.5,8712,1,8797,average,California
+315000,3,1,6634,1,7203,average,California
+940000,3,1.5,3600,2,4800,average,California
+305000,5,2.25,8400,1.5,8165,average,California
+461000,3,3.25,6278,2,7349,good,California
+215000,2,2.25,2040,2,2025,average,California
+335000,2,1.75,1066,2,1106,average,California
+243500,4,2.5,7403,2,7510,average,California
+153000,,1,10500,1,10500,,California
+430000,3,1.5,5000,1,4500,good,California
+700000,3,1.5,5000,1,4500,average,California
+905000,4,2.5,10250,1,6045,average,California
+247500,3,1.75,15681,1,15616,average,California
+199000,4,1.5,6400,1,6400,good,California
+314000,3,1.75,41800,1,135036,average,California
+437500,3,2.5,36847,2,35065,average,California
+850830,3,2.5,13241,1.5,4500,average,California
+555000,3,2,,1.5,3478,average,California
+699950,3,2.25,107593,2,47777,good,California
+290000,3,1,33919,1,14910,good,California
+375000,3,2.5,10005,1,8162,bad,California
